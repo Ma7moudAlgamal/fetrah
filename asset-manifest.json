@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/fetrah/static/css/main.4d2276ec.css",
+    "main.js": "/fetrah/static/js/main.c05b75c8.js",
+    "static/js/787.d5a73962.chunk.js": "/fetrah/static/js/787.d5a73962.chunk.js",
+    "static/media/Comfortaa-VariableFont_wght.ttf": "/fetrah/static/media/Comfortaa-VariableFont_wght.4d2ab5de91c4d193a69f.ttf",
+    "static/media/292483988___n.jpg": "/fetrah/static/media/292483988_3216806731912006_7111319416485456861_n.5edc919154a6a81a4d7f.jpg",
+    "static/media/icons8-facebook-250.png": "/fetrah/static/media/icons8-facebook-250.55a935e4079095ee3f30.png",
+    "index.html": "/fetrah/index.html",
+    "main.4d2276ec.css.map": "/fetrah/static/css/main.4d2276ec.css.map",
+    "main.c05b75c8.js.map": "/fetrah/static/js/main.c05b75c8.js.map",
+    "787.d5a73962.chunk.js.map": "/fetrah/static/js/787.d5a73962.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d2276ec.css",
+    "static/js/main.c05b75c8.js"
+  ]
+}
