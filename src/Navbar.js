@@ -6,9 +6,9 @@ const NavBar = () => {
     <header>
         <a href="#" class="logo">FETRAH</a>
         <nav class="navigation">
-            <a href="index.html">Home</a>
-            <a href="#about">About</a>
-            <a href="#contact">Contact</a>
+            <a href=".main">Home</a>
+            <a href="#secondary">About</a>
+            <a href="#support">Support us</a>
         </nav>
     </header>
   );

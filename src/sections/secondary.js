@@ -15,7 +15,7 @@ const SecondarySection = () => {
           supporters in its first days which frightend other companies that
           support homosexuality. This rapid and enormous growth caused some
           social media platforms to tirelessly try and shut down the campaign, but it was already too late.
-          
+          Many people around the world espicially middle east are now supporting <span>FETRAH</span>
         </p>
         <img src= {contentImage} id="contentImage" alt=""/>
       </div>
