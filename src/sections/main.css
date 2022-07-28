@@ -1,0 +1,31 @@
+.main {
+  width: 100%;
+  /* background: rgb(235, 69, 146); */
+  background: linear-gradient(
+    90deg,
+    rgba(235, 69, 146, 1) 50%,
+    rgba(77, 198, 225, 1) 50%
+  );
+  min-height: 100vh;
+  display: flex;
+  /* align-items: center; */
+
+}
+
+.caption {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  width: 100%;
+}
+
+.caption h1:first-child {
+  font-size: 65px;
+  color: #4dc6e1;
+}
+
+.caption h1:last-child {
+    margin-left: 150px;
+    font-size: 65px;
+    color:rgb(235, 69, 146)
+}
