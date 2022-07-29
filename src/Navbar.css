@@ -1,10 +1,10 @@
 header {
   background-color: rgb(244, 244, 244);
-  width: 100%;
+  width: 100vw;
   position: fixed;
   z-index: 999;
   display: flex;
-  justify-content: space-between;
+  justify-content: space-evenly;
   align-items: center;
   padding: 10px 200px;
 }
@@ -43,3 +43,5 @@ header {
 .navigation a:hover {
   color: #eb4592;
 }
+
+

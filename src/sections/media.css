@@ -1,0 +1,70 @@
+@media (max-width: 450px) {
+
+    section {
+        padding: 50px 100px;
+    }
+
+    .logo {
+        font-size: 30px;
+    }
+
+    .navigation a {
+        font-size: 15px;
+        padding-left: 15px;
+        text-overflow: overflow;
+    }
+
+
+    .caption h1:first-child {
+        font-size: 30px;
+    }
+
+    .caption h1:last-child {
+        font-size: 30px;
+        margin-left: 75px;
+    }
+
+    #secondary {
+        padding: 30px;
+    }
+
+
+
+    #contentImage {
+        display: none;
+    }
+
+    #secondary .content p {
+        font-size: 20px;
+        line-height: 40px;
+        width: 100%;
+    }
+
+
+    #secondary .content p span {
+        font-size: 25px;
+    }
+
+    .joinContent p {
+        font-size: 30px;
+        line-height: 32px;
+    }
+
+    .join img {
+        display: none;
+    }
+
+    .joinContent a {
+        font-size: 30px;
+        width: 100%;
+    }
+
+    #support {
+        padding: 30px;
+    }
+
+    footer {
+        padding: 40px;
+    }
+
+}

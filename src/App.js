@@ -7,6 +7,7 @@ import MainSection from './sections/main';
 import Secondary from './sections/secondary.js';
 import Support from './sections/support';
 import Footer from './sections/footer';
+import Media from './sections/media'
 
 library.add(fab)
 
@@ -19,6 +20,7 @@ return (
     <Secondary/>
     <Support/>
     <Footer/>
+    <Media/>
   </>
 )
 

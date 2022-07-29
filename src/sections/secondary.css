@@ -2,21 +2,17 @@
 
 #secondary {
   background-color: white;
-  background-image: src(
-    "%PUBLIC_URL%/292483988_3216806731912006_7111319416485456861_n.jpg"
-  );
   font-family: "Comfortaa", cursive;
 }
 
 #secondary .title {
-  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
-    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-family: 'Comfortaa';
   display: flex;
-  align-items: center;
-  justify-content: center;
+  text-align: center;
+  font-weight: 800;
 }
 
-#secondary .title span,
+
 #secondary .content p span {
   font-size: 70px;
   background-color: rgba(235, 69, 146, 1);
@@ -67,48 +63,6 @@
 
 #secondary p span {
   font-size: 46px;
-}
-
-.cards {
-  background-color: white;
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-evenly;
-  margin-top: 100px;
-}
-
-.card {
-  height: 500px;
-  width: 350px;
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-  transition: 0.3s;
-  border-radius: 25px; /* 5px rounded corners */
-}
-
-.card .flag {
-  height: 250px;
-  width: 100%;
-  background-color: rgba(235, 69, 146, 1);
-  background-image: linear-gradient(
-    90deg,
-    rgba(235, 69, 146, 1) 50%,
-    rgba(77, 198, 225, 1) 50%
-  );
-  border-radius: 25px 25px 0 0;
-}
-
-.card .cardImage {
-  background-image: url(../icons8-facebook-250.png);
-  height: 250px;
-  background-repeat: no-repeat;
-  width: 100%;
-  align-self: center;
-}
-
-.cardContent p {
-  font-size: 30px;
-  line-height: 40px;
-  padding: 10px;
 }
 
 #pink {
