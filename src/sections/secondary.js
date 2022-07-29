@@ -9,7 +9,7 @@ const SecondarySection = () => {
       <h1 className="title">Our story</h1>
       <div className="content">
         <p>
-          <span>Fetrah</span> is a campaign that was established by a group of
+          <span>FETRAH</span> is a campaign that was established by a group of
           Egyptians in 2022. Opposing the idea of homosexuality is the one and
           only goal of the campaign. <br/> <br/> <span>FETRAH</span> gained a lot of
           supporters in its first days which frightend other companies that
